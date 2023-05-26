@@ -6,3 +6,10 @@ print('huan is a baddie')
 # comments are not done using //
 
 # hello world
+
+
+#
+#
+#
+##
+#
